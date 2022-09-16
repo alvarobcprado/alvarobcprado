@@ -9,7 +9,7 @@
 ---
 
 <div >
- <img width="55%" height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobcprado&layout=compact&theme=github_dark"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark"/>
+ <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobcprado&layout=compact&theme=github_dark"/>
 </div>
 
