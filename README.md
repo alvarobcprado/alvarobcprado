@@ -8,8 +8,8 @@
 
 ---
 
-<div >
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark"/>
- <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobcprado&layout=compact&theme=github_dark"/>
-</div>
+<p align="center" >
+ <img width="55%" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark"/>
+ <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobcprado&layout=compact&theme=github_dark"/>
+</p>
 
