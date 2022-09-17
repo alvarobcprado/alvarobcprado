@@ -10,7 +10,7 @@
 
 <p align="center" >
   <a href="https://github.com/alvarobcprado">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=alvarobcprado&hide=issues,contribs&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/>
     <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarobcprado&layout=compact&theme=github_dark"/>
   </a>
 </p>
